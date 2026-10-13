@@ -1,6 +1,6 @@
 # Media Server Home Lab
 
-Repurposed a desktop PC into a self-hosted media server using Ubuntu Server Linux and Jellyfind to manage and stream movies and television shows across devices on a local network.
+Repurposed a desktop PC into a self-hosted media server using Ubuntu Server Linux and Jellyfin to manage and stream movies and television shows across devices on a local network.
 
 ## PC Specs
 - Intel Core i5-6500 processor
