@@ -21,4 +21,11 @@ Create centralized digital storage of my favorite physical media and be able to 
 
 
 ## Setup
+The PC is currently running on Windows 10. With the age and issues of this device, boot times are horrendous (5-15 mins). Thankfully, I have 0 need for this bloated OS. 
 
+1. Download the [Ubuntu Server ISO image](https://ubuntu.com/download/)
+2. Create a bootable USB flash drive
+3. Plug into PC and boot
+
+> [!Note]
+> I chose to run Ubuntu Server without a GUI, so I had to rely on SSH and the terminal to install software, configure services, manage files, and troubleshoot any issues.
