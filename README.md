@@ -10,3 +10,15 @@ Repurposed a desktop PC into a self-hosted media server using Ubuntu Server Linu
 
 ## Objective
 Create centralized digital storage of my favorite physical media and be able to access it whenever, wherever, without the reliance on monthly subscriptions or network instability.
+
+
+## Potential Issues
+> [!WARNING]
+> - HDD is corrupted/damaged.
+>    - On startup, it used to click (resolved)
+ >   - Constant '100% Usage'
+> - PSU was replaced after it died.
+
+
+## Setup
+
