@@ -29,3 +29,7 @@ The PC is currently running on Windows 10. With the age and issues of this devic
 
 > [!Note]
 > I chose to run Ubuntu Server without a GUI, so I had to rely on SSH and the terminal to install software, configure services, manage files, and troubleshoot any issues.
+
+---
+
+## Coming Soon...
